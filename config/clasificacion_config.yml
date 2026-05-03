@@ -1,0 +1,76 @@
+name: humedales_clasificacion
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # ==========================================================
+  # PYTHON
+  # ==========================================================
+  - python=3.11
+  - pip
+
+  # ==========================================================
+  # NOTEBOOKS / INTERFAZ
+  # ==========================================================
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - jupyterlab_widgets
+
+  # ==========================================================
+  # CIENCIA DE DATOS
+  # ==========================================================
+  - numpy
+  - pandas
+  - scipy
+  - openpyxl
+  - joblib
+
+  # ==========================================================
+  # MACHINE LEARNING
+  # ==========================================================
+  - scikit-learn
+
+  # ==========================================================
+  # VISUALIZACIÓN
+  # ==========================================================
+  - matplotlib
+  - seaborn
+  - plotly
+
+  # ==========================================================
+  # DATOS GEOESPACIALES
+  # ==========================================================
+  - geopandas
+  - rasterio
+  - shapely
+  - fiona
+  - pyproj
+
+  # ==========================================================
+  # GOOGLE EARTH ENGINE / MAPAS INTERACTIVOS
+  # ==========================================================
+  - earthengine-api
+  - geemap
+  - folium
+  - ipyleaflet
+  - jupyter_leaflet
+
+  # ==========================================================
+  # UTILIDADES
+  # ==========================================================
+  - tqdm
+  - requests
+  - unidecode
+
+  # ==========================================================
+  # DEPENDENCIAS COMPLEMENTARIAS VÍA PIP
+  # ==========================================================
+  - pip:
+      # Actualmente no se requieren dependencias adicionales vía pip.
+      # Si alguna librería no está disponible por conda-forge en el entorno
+      # de instalación, puede agregarse aquí.
+      []

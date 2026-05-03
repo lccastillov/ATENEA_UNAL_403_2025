@@ -1,0 +1,56 @@
+name: humedales_calidad_agua
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # =========================
+  # PYTHON
+  # =========================
+  - python=3.11
+  - pip
+
+  # =========================
+  # NOTEBOOKS
+  # =========================
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+
+  # =========================
+  # CIENCIA DE DATOS
+  # =========================
+  - numpy
+  - pandas
+  - scipy
+  - openpyxl
+
+  # =========================
+  # MACHINE LEARNING
+  # =========================
+  - scikit-learn
+  - joblib
+
+  # =========================
+  # VISUALIZACIÓN
+  # =========================
+  - matplotlib
+  - seaborn
+  - plotly
+
+  # =========================
+  # DATOS GEOESPACIALES
+  # =========================
+  - geopandas
+  - rasterio
+  - shapely
+  - fiona
+  - pyproj
+
+  # =========================
+  # UTILIDADES
+  # =========================
+  - tqdm
+  - requests
