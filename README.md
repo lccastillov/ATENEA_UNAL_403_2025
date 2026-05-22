@@ -729,10 +729,8 @@ Este repositorio se distribuye bajo la licencia **GNU General Public License v3.
 
 La licencia permite usar, estudiar, modificar y redistribuir el código fuente, siempre que las obras derivadas se mantengan bajo los mismos términos de la GPL-3.0. Esta condición garantiza que las modificaciones, adaptaciones o extensiones del repositorio conserven su carácter abierto y reproducible.
 
-Los términos completos de la licencia se encuentran en el archivo:
+Los términos completos de la licencia se encuentran en el archivo `LICENSE`.
 
-```text
-LICENSE
 ---
 
 ## Mantenimiento
@@ -761,4 +759,3 @@ Correo institucional: [lcastillov@unal.edu.co](mailto:lcastillov@unal.edu.co)
 Magíster en Geomática  
 Ingeniero Ambiental  
 Correo institucional: [drugeles@unal.edu.co](mailto:drugeles@unal.edu.co)
-
