@@ -759,3 +759,8 @@ Correo institucional: [lcastillov@unal.edu.co](mailto:lcastillov@unal.edu.co)
 Magíster en Geomática  
 Ingeniero Ambiental  
 Correo institucional: [drugeles@unal.edu.co](mailto:drugeles@unal.edu.co)
+
+**Wilmer Alexander Martínez Martínez**  
+Estudiante maestría en Ingeniería Ambiental  
+Ingeniero Ambiental  
+Correo institucional: [wiamartinezma@unal.edu.co](mailto:wiamartinezma@unal.edu.co)
