@@ -725,14 +725,14 @@ El repositorio cuenta con:
 
 ## Licencia
 
-La licencia del repositorio se define en:
+Este repositorio se distribuye bajo la licencia **GNU General Public License v3.0 (GPL-3.0)**.
+
+La licencia permite usar, estudiar, modificar y redistribuir el código fuente, siempre que las obras derivadas se mantengan bajo los mismos términos de la GPL-3.0. Esta condición garantiza que las modificaciones, adaptaciones o extensiones del repositorio conserven su carácter abierto y reproducible.
+
+Los términos completos de la licencia se encuentran en el archivo:
 
 ```text
 LICENSE
-```
-
-Antes de publicar o distribuir el repositorio, se recomienda verificar que la licencia seleccionada sea compatible con las políticas institucionales del proyecto.
-
 ---
 
 ## Mantenimiento
@@ -745,3 +745,20 @@ Para mantener el repositorio en buen estado:
 - no subir archivos pesados innecesarios;
 - revisar que los notebooks se ejecuten con el kernel correcto;
 - conservar la separación entre código reutilizable y notebooks de ejecución.
+
+---
+
+## Información de contacto
+
+Las consultas relacionadas con el alcance metodológico, la implementación técnica, la interpretación de resultados o el uso académico de este repositorio pueden dirigirse a:
+
+**Liliana Carolina Villamor**  
+PhD. Geography & Earth Sciences  
+Docente, Universidad Nacional de Colombia  
+Correo institucional: [lcastillov@unal.edu.co](mailto:lcastillov@unal.edu.co)
+
+**Diego Joaquín Rugeles Martínez**  
+Magíster en Geomática  
+Ingeniero Ambiental  
+Correo institucional: [drugeles@unal.edu.co](mailto:drugeles@unal.edu.co)
+
